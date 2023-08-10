@@ -38,7 +38,7 @@
 
 10.   TBD (11/09)
 
-11.   TBD (11/16)
+11.   **Prof. Chia-Hsien Shen**, Department of Physics, National Taiwan University (11/16; host: Hauyu Liu)
 
 12.   TBD (11/23)
 
@@ -58,7 +58,6 @@
 - 高英哲 or 張博堯 or 張泰榕 (host: Chia-Min Chung)
 - Martin Spinrath (host: Dimitrios Giataganas)
 - Huan-Yu Ku (host: Chia-Yi Ju)
-- Chia-Hsien Shen (host: Hauyu Liu)
 
 ## Assessment:
 - roll call (100%)
