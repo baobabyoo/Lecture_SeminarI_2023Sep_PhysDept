@@ -62,12 +62,12 @@
 ## Assessment:
 - roll call (100%)
 
-Base: 85 points
-No-show: -15 points each time
-Being late: -8 points each time
+- Base: 85 points
+- No-show: -15 points each time
+- Being late: -8 points each time
 
 Bonus:
-Asking questions: +3 points each time (no more than +3 points each class).
+- Asking questions: +3 points each time (no more than +3 points each class).
 
 ## Other regulation (其它規定):
 Do not enter my office if you get covid, flu, or without wearing a mask.
