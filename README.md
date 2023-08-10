@@ -30,7 +30,8 @@
 6.    **Kai-Chun Chang**, Ph.D. candidate, NSYSU Phys. (10//12)
       Topic: *Analysis of Electrical Characteristics and Leakage Mechanism on p-GaN High Electron Mobility Transistors*
 
-7.    TBD (10/19)
+7.    **Jian-Jie Chen**, Ph.D. candidate, NSYSU Phys. (10/19)
+      Topic: *低溫多晶矽材料之薄膜電晶體的電性分析與可靠度研究*
 
 8.    **Prof. Hua-Bai Li**, Department of Physics, Chinese University of Hong Kong (10/26; host: Hauyu Liu)
 
