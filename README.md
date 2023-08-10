@@ -19,20 +19,20 @@
 ## speakers:
 1.    Opening. No talk. (9/07)
 
-2.    Susaiammal Arokiasamy, Ph.D. candidate, NSYSU Phys. (9/14)
+2.    **Susaiammal Arokiasamy**, Ph.D. candidate, NSYSU Phys. (9/14)
 
-3.    Aniceto Maghirang, Ph.D. candidate, NSYSU Phys. (9/21)
+3.    **Aniceto Maghirang**, Ph.D. candidate, NSYSU Phys. (9/21)
 
 4.    TBD (9/28)
 
-5.    Wei-Chun Hung, Ph.D. candidate, NSYSU Phys. (10/5)
+5.    **Wei-Chun Hung**, Ph.D. candidate, NSYSU Phys. (10/5)
 
-6.    Kai-Chun Chang, Ph.D. candidate, NSYSU Phys. (10//12)
+6.    **Kai-Chun Chang**, Ph.D. candidate, NSYSU Phys. (10//12)
       Topic: *Analysis of Electrical Characteristics and Leakage Mechanism on p-GaN High Electron Mobility Transistors*
 
 7.    TBD (10/19)
 
-8.    Prof. Hua-Bai Li, Department of Physics, Chinese University of Hong Kong (10/26; host: Hauyu Liu)
+8.    **Prof. Hua-Bai Li**, Department of Physics, Chinese University of Hong Kong (10/26; host: Hauyu Liu)
 
 9.    TBD (11/02)
 
