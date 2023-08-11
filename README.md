@@ -23,7 +23,7 @@
 
 3.    **Aniceto Maghirang**, Ph.D. candidate, NSYSU Phys. (9/21)
 
-4.    TBD (9/28)
+4.    **Prof. Huan-Yu Ku**, Department of Physics, National Taiwan Normal University (9/28)
 
 5.    **Wei-Chun Hung**, Ph.D. candidate, NSYSU Phys. (10/5)
 
