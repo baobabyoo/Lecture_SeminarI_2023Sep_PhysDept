@@ -43,7 +43,7 @@
 
 12.   TBD (11/23)
 
-13.   TBD (11/30)
+13.   **Prof. Yueh-Ning Lee**, Department of Earth Science, National Taiwan Normal University (11/30)
 
 14.   TBD (12/07)
 
