@@ -53,7 +53,7 @@
 
 ## To be invited
 - Toshifumi Futamase (host: Sho Iwamoto)
-- Atsushi Yabushita, 羅健榮 (host: Sheng-Ting Hung)
+- Atsushi Yabushita, 羅健榮 (host: Sheng-Ting Hung) (should avoid Oct 26 and Dec 28)
 - Chung Li Dong, Vinoth Kumar Ponusamy (host: Phuong Pham)
 - 陳永富, David Lee (host: Kuei-Lin Chiu)
 - 高英哲 or 張博堯 or 張泰榕 (host: Chia-Min Chung)
