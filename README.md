@@ -23,7 +23,8 @@
 
 3.    **Aniceto Maghirang**, Ph.D. candidate, NSYSU Phys. (9/21)
 
-4.    **Prof. Huan-Yu Ku**, Department of Physics, National Taiwan Normal University (9/28)
+4.    - 14:00-15:00 **Prof. Huan-Yu Ku**, Department of Physics, National Taiwan Normal University (9/28)
+      - 15:00-16:00 **Prof. Yi Liu**, Materials Genome Institute, Shanghai University (9/28) Topic: *AI-assisted high-throughput experimental alloy design*
 
 5.    **Wei-Chun Hung**, Ph.D. candidate, NSYSU Phys. (10/5)
 
