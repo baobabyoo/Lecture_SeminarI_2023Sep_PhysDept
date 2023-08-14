@@ -30,7 +30,7 @@ Application of Quantum Steerability*
         Quantum amplifiers can be seen as a way to distill quantum correlation. In this talk, I will introduce many examples of quantum amplifiers including teleportation and Bell nonlocality. Then I will introduce my recent results of quantum amplifiers on quantum steerability in which we show that the quantum amplifier for quantum steering can always be determined. Moreover, the quantum amplifier can be determined by measurement incompatibility. I will also present some concrete examples of applying quantum amplifiers to quantum steering.
       - 15:00-16:00 **Prof. Yi Liu**, Materials Genome Institute, Shanghai University (9/28) Topic: *AI-assisted high-throughput experimental alloy design*
 
-5.    **Wei-Chun Hung**, Ph.D. candidate, NSYSU Phys. (10/5)
+5.    **Wei-Chun Hung**, Ph.D. candidate, NSYSU Phys. (10/5) Topic: *Investigation on Electrical Analysis and Reliability Issues in Laterally Diffused Metal Oxide Semiconductor*
 
 6.    **Kai-Chun Chang**, Ph.D. candidate, NSYSU Phys. (10//12)
       Topic: *Analysis of Electrical Characteristics and Leakage Mechanism on p-GaN High Electron Mobility Transistors*
