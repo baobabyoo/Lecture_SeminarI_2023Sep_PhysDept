@@ -46,7 +46,7 @@ Application of Quantum Steerability*
 
 11.   **Prof. Chia-Hsien Shen**, Department of Physics, National Taiwan University (11/16; host: Hauyu Liu)
 
-12.   TBD (11/23)
+12.   **Martin Spinrath**, Department of Physics, National Tsing-Hua University (11/23: host Dimitrios)
 
 13.   **Prof. Yueh-Ning Lee**, Department of Earth Science, National Taiwan Normal University (11/30; host: Hauyu Liu, Chien-Cheng Kuo)
 
