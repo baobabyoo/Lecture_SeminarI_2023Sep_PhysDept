@@ -56,13 +56,10 @@ Application of Quantum Steerability*
 
 
 ## To be invited
-- Toshifumi Futamase (host: Sho Iwamoto)
 - Atsushi Yabushita, 羅健榮 (host: Sheng-Ting Hung) (should avoid Oct 26)
 - Chung Li Dong, Vinoth Kumar Ponusamy (host: Phuong Pham)
 - 陳永富, David Lee (host: Kuei-Lin Chiu)
-- 高英哲 or 張博堯 or 張泰榕 (host: Chia-Min Chung)
-- Martin Spinrath (host: Dimitrios Giataganas)
-- Huan-Yu Ku (host: Chia-Yi Ju)
+- 張博堯 or 張泰榕 (host: Chia-Min Chung)
 
 ## Assessment:
 - roll call (100%)
