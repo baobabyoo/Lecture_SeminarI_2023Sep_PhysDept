@@ -19,7 +19,7 @@
 ## speakers:
 1.    Opening. No talk. (9/07)
 
-2.    **Susaiammal Arokiasamy**, Ph.D. candidate, NSYSU Phys. (9/14)
+2.    **Susaiammal Arokiasamy**, Ph.D. candidate, NSYSU Phys. (9/14) Topic: *First-principles Study on the topology of 2D ABO3 materials*
 
 3.    **Aniceto Maghirang**, Ph.D. candidate, NSYSU Phys. (9/21)
 
