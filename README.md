@@ -23,36 +23,36 @@
 
 3.    **Aniceto Maghirang**, Ph.D. candidate, NSYSU Phys. (9/21)
 
-4.    - 14:00-15:00 **Prof. Huan-Yu Ku**, Department of Physics, National Taiwan Normal University (9/28) Topic: *Quantum Amplifiers:
+4.    - 14:00-15:00 **Prof. Huan-Yu Ku (古煥宇)**, Department of Physics, National Taiwan Normal University (師大物理系) (9/28, host: Chia-Yi Ju) Topic: *Quantum Amplifiers:
 Classification, Manipulation, Distillation, and
 Application of Quantum Steerability*
       - **Abstract**
         Quantum amplifiers can be seen as a way to distill quantum correlation. In this talk, I will introduce many examples of quantum amplifiers including teleportation and Bell nonlocality. Then I will introduce my recent results of quantum amplifiers on quantum steerability in which we show that the quantum amplifier for quantum steering can always be determined. Moreover, the quantum amplifier can be determined by measurement incompatibility. I will also present some concrete examples of applying quantum amplifiers to quantum steering.
-      - 15:00-16:00 **Prof. Yi Liu**, Materials Genome Institute, Shanghai University (9/28) Topic: *AI-assisted high-throughput experimental alloy design*
+      - 15:00-16:00 **Prof. Yi Liu (劉軼)**, Materials Genome Institute, Shanghai University (上海大學材料基因組工程研究院) (9/28) Topic: *AI-assisted high-throughput experimental alloy design*
 
-5.    **Wei-Chun Hung**, Ph.D. candidate, NSYSU Phys. (10/5) Topic: *Investigation on Electrical Analysis and Reliability Issues in Laterally Diffused Metal Oxide Semiconductor*
+5.    **Wei-Chun Hung (洪瑋駿)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10/5) Topic: *Investigation on Electrical Analysis and Reliability Issues in Laterally Diffused Metal Oxide Semiconductor*
 
-6.    **Kai-Chun Chang**, Ph.D. candidate, NSYSU Phys. (10//12)
+6.    **Kai-Chun Chang (張凱鈞)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10//12)
       Topic: *Analysis of Electrical Characteristics and Leakage Mechanism on p-GaN High Electron Mobility Transistors*
 
-7.    **Jian-Jie Chen**, Ph.D. candidate, NSYSU Phys. (10/19)
+7.    **Jian-Jie Chen (陳建傑)** , Ph.D. candidate, NSYSU Phys. (中山物理系) (10/19)
       Topic: *Electrical Analysis and Reliability Study of Thin-Film Transistors Based on Low-Temperature Polycrystalline Silicon Materials*
 
-8.    **Prof. Hua-Bai Li**, Department of Physics, Chinese University of Hong Kong (10/26; host: Hauyu Liu)
+8.    **Prof. Hua-Bai Li (李華白)**, Department of Physics, Chinese University of Hong Kong (香港中文大學物理系) (10/26; host: Hauyu Liu)
 
 9.    **Prof. Toshifumi Futamase**, Astronomical Institute, Tohoku University (11/02) Topic: *A possible interpretation of the Hubble tension by global inhomogeneity in the university*
 
 10.   **Prof. Atsushi Yabushita**, Department of electrophysics, National Yang Ming Chiao Tung University (Nov. 09; host: Sheng-Ting)
 
-11.   **Prof. Chia-Hsien Shen**, Department of Physics, National Taiwan University (11/16; host: Hauyu Liu)
+11.   **Prof. Chia-Hsien Shen (沈家賢)**, Department of Physics, National Taiwan University (台大物理系) (11/16; host: Hauyu Liu)
 
 12.   **Martin Spinrath**, Department of Physics, National Tsing-Hua University (11/23: host Dimitrios)
 
-13.   **Prof. Yueh-Ning Lee**, Department of Earth Science, National Taiwan Normal University (11/30; host: Hauyu Liu, Chien-Cheng Kuo)
+13.   **Prof. Yueh-Ning Lee (李悅寧)**, Department of Earth Science, National Taiwan Normal University (師大地科系) (11/30; host: Hauyu Liu, Chien-Cheng Kuo)
 
 14.   TBD (12/07)
 
-15.   **Prof. Ying Jer Kao**, Department of Physics, National Taiwan University (12/14; Chia-Min Chung) 
+15.   **Prof. Ying Jer Kao (高英哲)**, Department of Physics, National Taiwan University (台大物理系) (12/14; Chia-Min Chung) 
 
 
 ## To be invited
