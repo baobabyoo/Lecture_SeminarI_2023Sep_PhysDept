@@ -45,7 +45,7 @@ Application of Quantum Steerability*
 
 7.    **Jian-Jie Chen (陳建傑)** , Ph.D. candidate, NSYSU Phys. (中山物理系) (10/19)
       Topic: *Electrical Analysis and Reliability Study of Thin-Film Transistors Based on Low-Temperature Polycrystalline Silicon Materials (低溫多晶矽材料之薄膜電晶體的電性分析與可靠度研究)*
-      - **Abstract**
+      - **Abstract** In this study, dual-gate thin-film transistors with low-temperature polysilicon as the active channel layer were subjected to high-voltage reliability testing. During this testing, the electrons in the channel are accelerated by applied bias, leading to impact ionization. This phenomenon generates electron-hole pairs and affects the device characteristics. By designing a new device structure, improvements were achieved in the transistor's performance during testing. The research results have been validated through electric field simulations using the Silvaco TCAD software.
       - 本研究探討了以低溫多晶矽作為主動層的雙閘極薄膜電晶體在高電壓可靠度測試下的表現。在此測試中，通道內的電子受到外加偏壓加速，引發碰撞游離現象，進而產生電子-電洞對，對元件特性造成影響。透過改變元件結構使電晶體在測試下獲得改善，研究結果已由Silvaco TCAD軟體的電場模擬進行驗證。
 
 8.    **Prof. Hua-Bai Li (李華白)**, Department of Physics, Chinese University of Hong Kong (香港中文大學物理系) (10/26; host: Hauyu Liu)
