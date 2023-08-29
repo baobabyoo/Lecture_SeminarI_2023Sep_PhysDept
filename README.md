@@ -44,7 +44,9 @@ Application of Quantum Steerability*
       - 在這篇工作中，分析了p-GaN Gate HEMT中三段式關態漏電之漏電機制。隨著汲極電壓上升汲極漏電呈現三段式的上升-下降-上升特性。根據比對漏電來源、不同電壓及溫度條件的關態應力測試，三段漏電分別由擊穿漏電、電子注入及缺陷輔助熱場發射所主導。此外，C-GaN 緩衝層對電性的影響也被解釋，包含擊穿漏電及汲極引致能障下降效應。最後，從物理機制上解釋了飽和區條件下開態電流與碳濃度之間的異常關係。
 
 7.    **Jian-Jie Chen (陳建傑)** , Ph.D. candidate, NSYSU Phys. (中山物理系) (10/19)
-      Topic: *Electrical Analysis and Reliability Study of Thin-Film Transistors Based on Low-Temperature Polycrystalline Silicon Materials*
+      Topic: *Electrical Analysis and Reliability Study of Thin-Film Transistors Based on Low-Temperature Polycrystalline Silicon Materials (低溫多晶矽材料之薄膜電晶體的電性分析與可靠度研究)*
+      - **Abstract**
+      - 本研究探討了以低溫多晶矽作為主動層的雙閘極薄膜電晶體在高電壓可靠度測試下的表現。在此測試中，通道內的電子受到外加偏壓加速，引發碰撞游離現象，進而產生電子-電洞對，對元件特性造成影響。透過改變元件結構使電晶體在測試下獲得改善，研究結果已由Silvaco TCAD軟體的電場模擬進行驗證。
 
 8.    **Prof. Hua-Bai Li (李華白)**, Department of Physics, Chinese University of Hong Kong (香港中文大學物理系) (10/26; host: Hauyu Liu)
 
