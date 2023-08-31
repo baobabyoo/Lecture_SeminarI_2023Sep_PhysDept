@@ -60,7 +60,7 @@ Application of Quantum Steerability*
 
 13.   **Prof. Yueh-Ning Lee (李悅寧)**, Department of Earth Science, National Taiwan Normal University (師大地科系) (11/30; host: Hauyu Liu, Chien-Cheng Kuo)
 
-14.   TBD (12/07)
+14.   **Prof. Chung-Li Dong (董崇禮)**, Department of Physics, Tamkang University (淡大物理系) (12/07; host: Pham)
 
 15.   **Prof. Ying Jer Kao (高英哲)**, Department of Physics, National Taiwan University (台大物理系) (12/14; Chia-Min Chung) 
 
