@@ -72,12 +72,12 @@ Application of Quantum Steerability*
 15.   - 14:10-15:00 **Prof. Ying Jer Kao (高英哲)**, Department of Physics, National Taiwan University (台大物理系) (12/14; Chia-Min Chung)
       - 15:10-16:00 **Prof. *戴鵬程*, Department of Physics, Rice University (12/14; host: Shiu-Ming Huang)
 
-
+<!---
 ## To be invited
 - Atsushi Yabushita, 羅健榮 (host: Sheng-Ting Hung) (should avoid Oct 26)
-- Chung Li Dong, Vinoth Kumar Ponusamy (host: Phuong Pham)
 - 陳永富, David Lee (host: Kuei-Lin Chiu)
 - 張博堯 or 張泰榕 (host: Chia-Min Chung)
+-->
 
 ## Assessment:
 - roll call (100%)
