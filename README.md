@@ -69,7 +69,8 @@ Application of Quantum Steerability*
 
 14.   **Prof. Chung-Li Dong (董崇禮)**, Department of Physics, Tamkang University (淡大物理系) (12/07; host: Pham)
 
-15.   **Prof. Ying Jer Kao (高英哲)**, Department of Physics, National Taiwan University (台大物理系) (12/14; Chia-Min Chung) 
+15.   - 14:10-15:00 **Prof. Ying Jer Kao (高英哲)**, Department of Physics, National Taiwan University (台大物理系) (12/14; Chia-Min Chung)
+      - 15:10-16:00 **Prof. *戴鵬程*, Department of Physics, Rice University (12/14; host: Shiu-Ming Huang)
 
 
 ## To be invited
