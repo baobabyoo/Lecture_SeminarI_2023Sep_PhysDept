@@ -1,5 +1,5 @@
 # Lecture: Seminar I/III
-* Time: (2023 September 06 - December 20) 6,7節, Thursday (14:00~16:00)
+* Time: (2023 September 06 - December 20) 6,7節, Thursday (14:20~16:10)
 * Lecturer: [Hauyu Baobab Liu](https://baobabyoo.github.io/) (呂浩宇)
 * Location: NSYSU, 理PH2006
 * Language: English
@@ -37,17 +37,18 @@ Application of Quantum Steerability*
         Quantum amplifiers can be seen as a way to distill quantum correlation. In this talk, I will introduce many examples of quantum amplifiers including teleportation and Bell nonlocality. Then I will introduce my recent results of quantum amplifiers on quantum steerability in which we show that the quantum amplifier for quantum steering can always be determined. Moreover, the quantum amplifier can be determined by measurement incompatibility. I will also present some concrete examples of applying quantum amplifiers to quantum steering.
       - 15:00-16:00 **Prof. Yi Liu (劉軼)**, Materials Genome Institute, Shanghai University (上海大學材料基因組工程研究院) (9/28) Topic: *AI-assisted high-throughput experimental alloy design*
 
-5.    **Wei-Chun Hung (洪瑋駿)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10/5) 
-      - **Topic:** *Investigation on Electrical Analysis and Reliability Issues in Laterally Diffused Metal Oxide Semiconductor (橫向擴散金屬氧化物半導體之電性分析與可靠度探討)*
-      - **Abstract** 
-      In this study, abnormal on-current (Ion) degradation in n-type lateral double-diffused metal-oxide-semiconductor transistor (LDMOS) after non-conductive stress (NCS) is investigated. The degradation is caused by electron injection into the insulator layer (IL) during stress. Moreover, Ion degradation reaches saturation within a short time after stress. Experimental data and technology computer aided design (TACD) simulations show that, after NCS, the contact field plate (CFP) induces carriers to inject into the IL above the drift region. It increases the overall on-resistance (Ron) and results in Ion degradation during turn-on. In the second work, the issue of abnormal two-stage hot carrier injection (HCI) degradation in n-type LDMOS is explored. The degradation mechanism is divided into two-stages. The first stage is the electron injection into the IL layer caused by the impact ionization that occurs under the CFP, resulting in the degradation of Ion. The second stage of deterioration is the positive bias temperature instability (PBTI) effects caused by Joule heating, which leads to defects in the SiO2/Si interface, and injects electrons in the channel into SiO2, which increases the subthreshold swing (S.S.) of the device and causes the threshold voltage (Vth) to shift. It has been proved by temperature variation experiments and TCAD simulations that HCI will indeed produce severe PBTI effects and lead to devices degradation during long-term HCI.
-      - 在本研究中，研究了非導通應力(NCS)後n型橫向雙擴散金屬氧化物半導體晶體管(LDMOS)的異常導通電流(I_on)下降。 劣化是由應力期間電子注入絕緣層(IL)引起的。此外，導通電流的下降在應力後短時間內即達到飽和。 實驗數據和技術計算機輔助設計(TACD)模擬 表明，NCS 後，接觸場板(CFP)誘導載子注入漂移區(drift region)上方的 IL。它會增加整體導 通電阻 (Ron) 並導致導通期間的電流下降。在第二項工作中，探討了n型LDMOS中異常兩階段熱載子注入劣化的問題。劣化機制 分為兩個階段。第一階段是 CFP下發生碰撞游離導致電子注入IL層，導致導通電流劣化。 第二階段劣化是焦耳熱引起的正偏壓溫度不穩定性(PBTI)效應，導致元件中 SiO_2/Si 界面出現缺 陷，並將通道中的電子注入到 SiO_2 中，從而增加了元件的次臨界擺幅(S.S.)，並導致閾值電壓 (V_th)發生變化。 通過溫度變化實驗和 TCAD 模擬證明，在長時間的 HCI 過程中，HCI 確實 會產生嚴重的 PBTI 效應並導致元件劣化。
+5.    **Talk canceled due to typhoon** (10/5) 
 
-6.    **Kai-Chun Chang (張凱鈞)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10//12)
+6.    - 14:20-15:10 **Kai-Chun Chang (張凱鈞)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10//12)
       - **Topic:** *Analysis of Electrical Characteristics and Leakage Mechanism on p-GaN High Electron Mobility Transistors (P型氮化鎵高電子遷移率電晶體之電性與漏電機制分析)*
       - **Abstract** 
       In this study, the mechanism of three-stage leakage in p-GaN High Electron Mobility Transistors is analyzed. Under bias conditions, the drain leakage current exhibits a three-stage characteristic of increase, decrease, and increase as drain voltage rises. Through comparative leakage source analysis, along with condition tests at different voltages and temperatures, the three-stage leakage is found to be governed by punch through leakage, electron injection, and trap assisted thermionic-field emission, respectively. Furthermore, the impact of the C-GaN buffer layer on electrical characteristic is elucidated, encompassing punch through leakage and drain-induced barrier lowering (DIBL) effect. Finally, the abnormal relationship between on current and carbon concentration under saturation conditions is explained in terms of its physical mechanism.
       - 在這篇工作中，分析了p-GaN Gate HEMT中三段式關態漏電之漏電機制。隨著汲極電壓上升汲極漏電呈現三段式的上升-下降-上升特性。根據比對漏電來源、不同電壓及溫度條件的關態應力測試，三段漏電分別由擊穿漏電、電子注入及缺陷輔助熱場發射所主導。此外，C-GaN 緩衝層對電性的影響也被解釋，包含擊穿漏電及汲極引致能障下降效應。最後，從物理機制上解釋了飽和區條件下開態電流與碳濃度之間的異常關係。
+      - 15:20-16:10 **Wei-Chun Hung (洪瑋駿)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10/5) 
+      - **Topic:** *Investigation on Electrical Analysis and Reliability Issues in Laterally Diffused Metal Oxide Semiconductor (橫向擴散金屬氧化物半導體之電性分析與可靠度探討)*
+      - **Abstract** 
+      In this study, abnormal on-current (Ion) degradation in n-type lateral double-diffused metal-oxide-semiconductor transistor (LDMOS) after non-conductive stress (NCS) is investigated. The degradation is caused by electron injection into the insulator layer (IL) during stress. Moreover, Ion degradation reaches saturation within a short time after stress. Experimental data and technology computer aided design (TACD) simulations show that, after NCS, the contact field plate (CFP) induces carriers to inject into the IL above the drift region. It increases the overall on-resistance (Ron) and results in Ion degradation during turn-on. In the second work, the issue of abnormal two-stage hot carrier injection (HCI) degradation in n-type LDMOS is explored. The degradation mechanism is divided into two-stages. The first stage is the electron injection into the IL layer caused by the impact ionization that occurs under the CFP, resulting in the degradation of Ion. The second stage of deterioration is the positive bias temperature instability (PBTI) effects caused by Joule heating, which leads to defects in the SiO2/Si interface, and injects electrons in the channel into SiO2, which increases the subthreshold swing (S.S.) of the device and causes the threshold voltage (Vth) to shift. It has been proved by temperature variation experiments and TCAD simulations that HCI will indeed produce severe PBTI effects and lead to devices degradation during long-term HCI.
+      - 在本研究中，研究了非導通應力(NCS)後n型橫向雙擴散金屬氧化物半導體晶體管(LDMOS)的異常導通電流(I_on)下降。 劣化是由應力期間電子注入絕緣層(IL)引起的。此外，導通電流的下降在應力後短時間內即達到飽和。 實驗數據和技術計算機輔助設計(TACD)模擬 表明，NCS 後，接觸場板(CFP)誘導載子注入漂移區(drift region)上方的 IL。它會增加整體導 通電阻 (Ron) 並導致導通期間的電流下降。在第二項工作中，探討了n型LDMOS中異常兩階段熱載子注入劣化的問題。劣化機制 分為兩個階段。第一階段是 CFP下發生碰撞游離導致電子注入IL層，導致導通電流劣化。 第二階段劣化是焦耳熱引起的正偏壓溫度不穩定性(PBTI)效應，導致元件中 SiO_2/Si 界面出現缺 陷，並將通道中的電子注入到 SiO_2 中，從而增加了元件的次臨界擺幅(S.S.)，並導致閾值電壓 (V_th)發生變化。 通過溫度變化實驗和 TCAD 模擬證明，在長時間的 HCI 過程中，HCI 確實 會產生嚴重的 PBTI 效應並導致元件劣化。
 
 7.    **Jian-Jie Chen (陳建傑)** , Ph.D. candidate, NSYSU Phys. (中山物理系) (10/19)
       - **Topic:** *Electrical Analysis and Reliability Study of Thin-Film Transistors Based on Low-Temperature Polycrystalline Silicon Materials (低溫多晶矽材料之薄膜電晶體的電性分析與可靠度研究)*
@@ -69,8 +70,8 @@ Application of Quantum Steerability*
 
 14.   **Prof. Chung-Li Dong (董崇禮)**, Department of Physics, Tamkang University (淡大物理系) (12/07; host: Pham)
 
-15.   - 14:10-15:00 **Prof. Ying Jer Kao (高英哲)**, Department of Physics, National Taiwan University (台大物理系) (12/14; Chia-Min Chung)
-      - 15:10-16:00 **Prof. *戴鵬程*, Department of Physics, Rice University (12/14; host: Shiu-Ming Huang)
+15.   - 14:20-15:10 **Prof. Ying Jer Kao (高英哲)**, Department of Physics, National Taiwan University (台大物理系) (12/14; Chia-Min Chung)
+      - 15:20-16:10 **Prof. *戴鵬程*, Department of Physics, Rice University (12/14; host: Shiu-Ming Huang)
 
 <!---
 ## To be invited
