@@ -60,11 +60,12 @@ Application of Quantum Steerability*
 9.    **Prof. Toshifumi Futamase**, Astronomical Institute, Tohoku University (11/02) 
       - **Topic:** *A possible interpretation of the Hubble tension by global inhomogeneity in the university*
 
-10.   **Prof. Atsushi Yabushita**, Department of electrophysics, National Yang Ming Chiao Tung University (Nov. 09; host: Sheng-Ting)
+10.   **(Cancelled)**
 
 11.   **Prof. Chia-Hsien Shen (沈家賢)**, Department of Physics, National Taiwan University (台大物理系) (11/16; host: Hauyu Liu)
 
-12.   **Martin Spinrath**, Department of Physics, National Tsing-Hua University (11/23: host Dimitrios)
+12.   - (14:20-15:10) **Martin Spinrath**, Department of Physics, National Tsing-Hua University (11/23: host Dimitrios)
+      - (15:20-16:10) **Prof. Atsushi Yabushita**, Department of electrophysics, National Yang Ming Chiao Tung University (11/23; host: Sheng-Ting)
 
 13.   **Prof. Yueh-Ning Lee (李悅寧)**, Department of Earth Science, National Taiwan Normal University (師大地科系) (11/30; host: Hauyu Liu, Chien-Cheng Kuo)
 
