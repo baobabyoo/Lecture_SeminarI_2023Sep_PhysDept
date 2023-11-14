@@ -21,9 +21,6 @@
 
 2.    **Susaiammal Arokiasamy**, Ph.D. candidate, NSYSU Phys. (9/14) 
       - **Topic:** *First-principles study on the topology of two-dimensional ABO3 materials*
-      - **Abstract** 
-      Two-dimensional (2D) materials are of great interest in physics and materials science due to their exceptional electronic and topological properties. Among these materials, the 2D ABO3 materials have emerged as promising candidates for novel 2D topological phases. This talk delves into the topological properties of 2D ABO3 materials predicted by employing density functional theory (DFT) calculations. Firstly, I would discuss in detail the prediction of quantum spin Hall and Rashba effects in pristine AuBiO3 and Janus Au0.5Ag0.5BiO3  from 2D ABO3 (A = Au, Ag, or Cu; B=Bi, Sb, or As), ilmenite oxides. Subsequently, I will present the structurally stable, quantum anomalous Hall (QAH) effect in AsNbO3, a ferromagnetic axion insulator, resulting from the study of 2D ABO3 (A=As, Sb, or Bi; B=V, Nb, or Ta) hematene structure formed through A-doping in one of the B-site atoms of B2O3 binary oxides. These findings demonstrate the potential of 2D ABO3 materials for spintronic applications. 
-
 3.    - 14:10-15:00 **Aniceto Maghirang**, Ph.D. candidate, NSYSU Phys. (9/21)
       - 15:10-16:00 **Paul Albert Sino**, Ph.D. candidate, NSYSU Phys. (9/21) 
         - **Topic:** *Vertical Plasma-Assisted Selenization Process Toward High-Yield and Wafer-Scale Production of Monolayer Janus Transition Metal Dichalcogenides*
