@@ -62,7 +62,9 @@ Application of Quantum Steerability*
 11.   **Prof. Chia-Hsien Shen (沈家賢)**, Department of Physics, National Taiwan University (台大物理系) (11/16; host: Hauyu Liu)
 
 12.   - (14:20-15:10) **Martin Spinrath**, Department of Physics, National Tsing-Hua University (11/23: host Dimitrios)
+      - **Topic** *Dark Matter Searches in Gravitational Wave Detectors*
       - (15:20-16:10) **Prof. Atsushi Yabushita**, Department of electrophysics, National Yang Ming Chiao Tung University (11/23; host: Sheng-Ting)
+      - **Topic** *Initial reaction mechanism of a red fluorescent protein visualized by ultrashort visible pulse laser*
 
 13.   **Prof. Yueh-Ning Lee (李悅寧)**, Department of Earth Science, National Taiwan Normal University (師大地科系) (11/30; host: Hauyu Liu, Chien-Cheng Kuo)
 
