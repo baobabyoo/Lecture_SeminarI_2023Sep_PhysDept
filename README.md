@@ -8,7 +8,7 @@
 
 ### TA
 - TBA
-  
+
 ### Office Hours (理SC2006-3)
 - Location: **理SC2006-3**
 - Time periods: Wed. 12:00-14:00; Thur. 10:00-12:00
@@ -19,14 +19,14 @@
 ## speakers:
 1.    Opening. No talk. (9/07)
 
-2.    **Susaiammal Arokiasamy**, Ph.D. candidate, NSYSU Phys. (9/14) 
+2.    **Susaiammal Arokiasamy**, Ph.D. candidate, NSYSU Phys. (9/14)
       - **Topic:** *First-principles study on the topology of two-dimensional ABO3 materials*
 3.    - 14:10-15:00 **Aniceto Maghirang**, Ph.D. candidate, NSYSU Phys. (9/21)
-      - 15:10-16:00 **Paul Albert Sino**, Ph.D. candidate, NSYSU Phys. (9/21) 
+      - 15:10-16:00 **Paul Albert Sino**, Ph.D. candidate, NSYSU Phys. (9/21)
         - **Topic:** *Vertical Plasma-Assisted Selenization Process Toward High-Yield and Wafer-Scale Production of Monolayer Janus Transition Metal Dichalcogenides*
         - **Abstract** Two-dimensional (2D) materials with an asymmetric structure like Janus transition metal dichalcogenides (TMDCs) exhibit intriguing electronic and optical properties, which can be used for numerous novel electronic and optoelectronic devices application. However, despite tremendous efforts, the synthesis technology of Janus TMDs has not been fully established, especially for high-yield and wafer-scale production. Here, we demonstrate the synthesis of Janus MoSSe by a top-down method for high-yield and wafer-scale production. In particular, we replace the top S atom of monolayer (ML) molybdenum disulfide (MoS 2 ) with Se by controlled vertical plasma-assisted selenization process (PASP). We first synthesized ML Janus MoSSe flakes through PASP. A set of microscopies, spectroscopies and electrical measurements showed that low synthesis temperature (200 °C) leads to the formation of ML Janus MoSSe flake while high temperatures (400 °C and 600 °C) lead to the formation of polymorphic alloy MoSSe flakes. Furthermore, we show that Janus WSSe can likewise be obtained by PASP, indicating the universality of the process. To demonstrate the feasibility of PASP for wafer-scale production of Janus MoSSe, we perform the exact same process but with continuous ML MoS 2 on 2-in. sapphire. Our synthesis approach provides a new scalable route to synthesize Janus TMDs toward future electronics.
 
-4.    - 14:10-15:00 **Prof. Huan-Yu Ku (古煥宇)**, Department of Physics, National Taiwan Normal University (師大物理系) (9/28, host: Chia-Yi Ju) 
+4.    - 14:10-15:00 **Prof. Huan-Yu Ku (古煥宇)**, Department of Physics, National Taiwan Normal University (師大物理系) (9/28, host: Chia-Yi Ju)
       - **Topic:** *Quantum Amplifiers:
 Classification, Manipulation, Distillation, and
 Application of Quantum Steerability*
@@ -34,16 +34,16 @@ Application of Quantum Steerability*
         Quantum amplifiers can be seen as a way to distill quantum correlation. In this talk, I will introduce many examples of quantum amplifiers including teleportation and Bell nonlocality. Then I will introduce my recent results of quantum amplifiers on quantum steerability in which we show that the quantum amplifier for quantum steering can always be determined. Moreover, the quantum amplifier can be determined by measurement incompatibility. I will also present some concrete examples of applying quantum amplifiers to quantum steering.
       - 15:00-16:00 **Prof. Yi Liu (劉軼)**, Materials Genome Institute, Shanghai University (上海大學材料基因組工程研究院) (9/28) Topic: *AI-assisted high-throughput experimental alloy design*
 
-5.    **Talk canceled due to typhoon** (10/5) 
+5.    **Talk canceled due to typhoon** (10/5)
 
 6.    - 14:20-15:10 **Kai-Chun Chang (張凱鈞)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10//12)
       - **Topic:** *Analysis of Electrical Characteristics and Leakage Mechanism on p-GaN High Electron Mobility Transistors (P型氮化鎵高電子遷移率電晶體之電性與漏電機制分析)*
-      - **Abstract** 
+      - **Abstract**
       In this study, the mechanism of three-stage leakage in p-GaN High Electron Mobility Transistors is analyzed. Under bias conditions, the drain leakage current exhibits a three-stage characteristic of increase, decrease, and increase as drain voltage rises. Through comparative leakage source analysis, along with condition tests at different voltages and temperatures, the three-stage leakage is found to be governed by punch through leakage, electron injection, and trap assisted thermionic-field emission, respectively. Furthermore, the impact of the C-GaN buffer layer on electrical characteristic is elucidated, encompassing punch through leakage and drain-induced barrier lowering (DIBL) effect. Finally, the abnormal relationship between on current and carbon concentration under saturation conditions is explained in terms of its physical mechanism.
       - 在這篇工作中，分析了p-GaN Gate HEMT中三段式關態漏電之漏電機制。隨著汲極電壓上升汲極漏電呈現三段式的上升-下降-上升特性。根據比對漏電來源、不同電壓及溫度條件的關態應力測試，三段漏電分別由擊穿漏電、電子注入及缺陷輔助熱場發射所主導。此外，C-GaN 緩衝層對電性的影響也被解釋，包含擊穿漏電及汲極引致能障下降效應。最後，從物理機制上解釋了飽和區條件下開態電流與碳濃度之間的異常關係。
-      - 15:20-16:10 **Wei-Chun Hung (洪瑋駿)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10/5) 
+      - 15:20-16:10 **Wei-Chun Hung (洪瑋駿)**, Ph.D. candidate, NSYSU Phys. (中山物理系) (10/5)
       - **Topic:** *Investigation on Electrical Analysis and Reliability Issues in Laterally Diffused Metal Oxide Semiconductor (橫向擴散金屬氧化物半導體之電性分析與可靠度探討)*
-      - **Abstract** 
+      - **Abstract**
       In this study, abnormal on-current (Ion) degradation in n-type lateral double-diffused metal-oxide-semiconductor transistor (LDMOS) after non-conductive stress (NCS) is investigated. The degradation is caused by electron injection into the insulator layer (IL) during stress. Moreover, Ion degradation reaches saturation within a short time after stress. Experimental data and technology computer aided design (TACD) simulations show that, after NCS, the contact field plate (CFP) induces carriers to inject into the IL above the drift region. It increases the overall on-resistance (Ron) and results in Ion degradation during turn-on. In the second work, the issue of abnormal two-stage hot carrier injection (HCI) degradation in n-type LDMOS is explored. The degradation mechanism is divided into two-stages. The first stage is the electron injection into the IL layer caused by the impact ionization that occurs under the CFP, resulting in the degradation of Ion. The second stage of deterioration is the positive bias temperature instability (PBTI) effects caused by Joule heating, which leads to defects in the SiO2/Si interface, and injects electrons in the channel into SiO2, which increases the subthreshold swing (S.S.) of the device and causes the threshold voltage (Vth) to shift. It has been proved by temperature variation experiments and TCAD simulations that HCI will indeed produce severe PBTI effects and lead to devices degradation during long-term HCI.
       - 在本研究中，研究了非導通應力(NCS)後n型橫向雙擴散金屬氧化物半導體晶體管(LDMOS)的異常導通電流(I_on)下降。 劣化是由應力期間電子注入絕緣層(IL)引起的。此外，導通電流的下降在應力後短時間內即達到飽和。 實驗數據和技術計算機輔助設計(TACD)模擬 表明，NCS 後，接觸場板(CFP)誘導載子注入漂移區(drift region)上方的 IL。它會增加整體導 通電阻 (Ron) 並導致導通期間的電流下降。在第二項工作中，探討了n型LDMOS中異常兩階段熱載子注入劣化的問題。劣化機制 分為兩個階段。第一階段是 CFP下發生碰撞游離導致電子注入IL層，導致導通電流劣化。 第二階段劣化是焦耳熱引起的正偏壓溫度不穩定性(PBTI)效應，導致元件中 SiO_2/Si 界面出現缺 陷，並將通道中的電子注入到 SiO_2 中，從而增加了元件的次臨界擺幅(S.S.)，並導致閾值電壓 (V_th)發生變化。 通過溫度變化實驗和 TCAD 模擬證明，在長時間的 HCI 過程中，HCI 確實 會產生嚴重的 PBTI 效應並導致元件劣化。
 
@@ -54,7 +54,7 @@ Application of Quantum Steerability*
 
 8.    **Prof. Hua-Bai Li (李華白)**, Department of Physics, Chinese University of Hong Kong (香港中文大學物理系) (10/26; host: Hauyu Liu)
 
-9.    **Prof. Toshifumi Futamase**, Astronomical Institute, Tohoku University (11/02) 
+9.    **Prof. Toshifumi Futamase**, Astronomical Institute, Tohoku University (11/02)
       - **Topic:** *A possible interpretation of the Hubble tension by global inhomogeneity in the university*
 
 10.   **(Cancelled)**
@@ -67,6 +67,9 @@ Application of Quantum Steerability*
       - **Topic** *Initial reaction mechanism of a red fluorescent protein visualized by ultrashort visible pulse laser*
 
 13.   **Prof. Yueh-Ning Lee (李悅寧)**, Department of Earth Science, National Taiwan Normal University (師大地科系) (11/30; host: Hauyu Liu, Chien-Cheng Kuo)
+      - **Title** *Non-ideal MHD and the protoplanetary disk size*
+      - **Abstract**
+      Many mechanisms have been proposed to alleviate the magnetic catastrophe that prevents the Keplerian disk from forming inside a collapsing magnetized core. Such propositions include inclined field and non-ideal magnetohydrodynamics effects, and have been supported with numerical experiments. Models have been proposed for typical disk sizes when a field threads the rotating disk, parallel to the rotation axis, while observations at the core scales do not seem to show any correlation between the directions of angular momentum and the magnetic field. In this talk, I will present a new model that considers vertical and horizontal fields and discuss their effects on the protoplanetary disk size.
 
 14.   **Prof. Chung-Li Dong (董崇禮)**, Department of Physics, Tamkang University (淡大物理系) (12/07; host: Pham)
 
@@ -92,4 +95,3 @@ Bonus:
 
 ## Other regulation (其它規定):
 Do not enter my office if you get covid, flu, or without wearing a mask.
-
