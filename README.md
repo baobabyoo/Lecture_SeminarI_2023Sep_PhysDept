@@ -72,6 +72,7 @@ Application of Quantum Steerability*
       Many mechanisms have been proposed to alleviate the magnetic catastrophe that prevents the Keplerian disk from forming inside a collapsing magnetized core. Such propositions include inclined field and non-ideal magnetohydrodynamics effects, and have been supported with numerical experiments. Models have been proposed for typical disk sizes when a field threads the rotating disk, parallel to the rotation axis, while observations at the core scales do not seem to show any correlation between the directions of angular momentum and the magnetic field. In this talk, I will present a new model that considers vertical and horizontal fields and discuss their effects on the protoplanetary disk size.
 
 14.   **Prof. Chung-Li Dong (董崇禮)**, Department of Physics, Tamkang University (淡大物理系) (12/07; host: Pham)
+      - **Title** *X-ray spectroscopy for energy science*
 
 15.   - 14:20-15:10 **Prof. Ying Jer Kao (高英哲)**, Department of Physics, National Taiwan University (台大物理系) (12/14; Chia-Min Chung)
       - 15:20-16:10 **Prof. *戴鵬程*, Department of Physics, Rice University (12/14; host: Shiu-Ming Huang)
